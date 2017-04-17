@@ -73,7 +73,7 @@ def help_menu():
 	print("     -i | --input   --> Input PNG            (req)")
 	print("     -o | --output  --> Output to file       (opt)")
 	print("     -p | --palette --> Specify Palette File (opt)")
-	print("Author: c3rb3ru5")
+	print("Author: Lilly Chalupowski")
 
 for i in range(0, len(sys.argv)):
 	if sys.argv[i] == "-h" or sys.argv[i] == "--help":
