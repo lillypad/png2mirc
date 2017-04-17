@@ -72,3 +72,4 @@ Now you should be able to connect in `Weechat` by doing:
 
 ##### Example Screenshots #####
 ![RainbowDash](docs/imgs/screenshot_1.png)
+![Zelda](docs/imgs/screenshot_2.png)
