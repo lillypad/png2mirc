@@ -34,7 +34,7 @@ sudo cp png2mirc.py /usr/bin/png2mirc
 ### Sharing Art on IRC ###
 - Open weechat
 - Join IRC Channel
-- Run /exec -o -norc png2mirc -i examples/rainbowdash_fly.png
+- Run `/exec -o -norc png2mirc -i examples/rainbowdash_fly.png`
 
 If you wish to test your art in IRC before you share it on a public channel with your friends a submodule for hircd is included to run hircd do:
 ```
@@ -69,6 +69,9 @@ Now you should be able to connect in `Weechat` by doing:
 - Color Approximation (Colors not in palette will pick closes neighbor to `MIRC` `RGB` color codes)
 - Currently has `RGBA` support only will soon have `RGB` `PNG` support
 - Image Resize
+
+####MIRC PALETTE####
+![mircpalette](docs/imgs/mirc.png)
 
 ##### Example Screenshots #####
 ![RainbowDash](docs/imgs/screenshot_1.png)
