@@ -61,6 +61,7 @@ Now you should be able to connect in `Weechat` by doing:
 - `palette/palette.lst` - Contains `MIRC` color codes and their associated `RGBA` values
 - `palette/palette.xcf` - `Gimp` project file to use as a color swatch for your creations
 
+Mirc Palette:
 ![mircpalette](docs/imgs/mirc.png)
 
 #### Features ####
