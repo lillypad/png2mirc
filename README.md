@@ -16,7 +16,7 @@ Just Check out this Rainbow Dash PixelArt you can send your to your friends on I
 ### Installation ###
 ```
 sudo apt-get -y install python3 pip
-sudo pip install Pillow
+sudo pip3 install Pillow
 git clone --recursive https://www.github.com/lillypad/png2mirc.git
 cd png2mirc
 sudo cp png2mirc.py /usr/bin/png2mirc
