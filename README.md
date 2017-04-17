@@ -71,3 +71,4 @@ Now you should be able to connect in `Weechat` by doing:
 - Image Resize
 
 ##### Example Screenshots #####
+![RainbowDash](docs/imgs/screenshot_1.png)
