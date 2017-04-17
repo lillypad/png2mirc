@@ -1,5 +1,5 @@
 # png2mirc #
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0) ![Python 3](https://img.shields.io/badge/Python-3-brightgreen.svg)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0) ![Python 2](https://img.shields.io/badge/Python-2-brightgreen.svg) ![Python 3](https://img.shields.io/badge/Python-3-brightgreen.svg)
 
 `png2mirc` allows you to share your pixel art creations with your IRC friends.
 
