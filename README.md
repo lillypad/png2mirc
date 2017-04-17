@@ -5,6 +5,9 @@
 
 `png2mirc` has been tested with Weechat.
 
+Just Check out this Rainbow Dash PixelArt you can send your to your friends on IRC:
+![rainbowdash](docs/imgs/rainbowdash_fly.png)
+
 ## Dependencies ##
 - [`Python 3`](https://www.python.org)
 - [`Pillow`](https://python-pillow.org/)
