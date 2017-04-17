@@ -61,6 +61,9 @@ Now you should be able to connect in `Weechat` by doing:
 - `palette/palette.lst` - Contains `MIRC` color codes and their associated `RGBA` values
 - `palette/palette.xcf` - `Gimp` project file to use as a color swatch for your creations
 
+###MIRC Palette###
+![mircpalette](docs/imgs/mirc.png)
+
 #### Features ####
 - Converts `PNG` to `MIRC` escape codes
 - Ability to use your own 10x10 palette for `RGB` comparison values
@@ -69,9 +72,6 @@ Now you should be able to connect in `Weechat` by doing:
 - Color Approximation (Colors not in palette will pick closes neighbor to `MIRC` `RGB` color codes)
 - Currently has `RGBA` support only will soon have `RGB` `PNG` support
 - Image Resize
-
-MIRC Palette
-![mircpalette](docs/imgs/mirc.png)
 
 ##### Example Screenshots #####
 ![RainbowDash](docs/imgs/screenshot_1.png)
