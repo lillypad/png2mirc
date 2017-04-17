@@ -70,7 +70,7 @@ Now you should be able to connect in `Weechat` by doing:
 - Currently has `RGBA` support only will soon have `RGB` `PNG` support
 - Image Resize
 
-####MIRC PALETTE####
+#MIRC PALETTE#
 ![mircpalette](docs/imgs/mirc.png)
 
 ##### Example Screenshots #####
