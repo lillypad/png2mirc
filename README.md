@@ -64,7 +64,7 @@ Now you should be able to connect in `Weechat` by doing:
 <b>MIRC Palette:</b><br>
 ![mircpalette](docs/imgs/mirc.png)
 
-You should be happy I made this as MIRC doesn't even provide a full list of `MIRC` to `RGB` values on their site:
+You should be happy I made this as `MIRC` doesn't even provide a full list of `MIRC` to `RGB` values on their site:
 - [MIRC-Official-Color-Reference](http://www.mirc.com/colors.html)
 
 #### Features ####
