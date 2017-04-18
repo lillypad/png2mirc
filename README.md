@@ -67,6 +67,8 @@ Now you should be able to connect in `Weechat` by doing:
 You should be happy I made this as `MIRC` doesn't even provide a full list of `MIRC` to `RGB` values on their site:
 - [MIRC-Official-Color-Reference](http://www.mirc.com/colors.html)
 
+Yes, this means I made `scripts/mirc.sh` then stole the `RGB` values from the screen one by one.
+
 #### Features ####
 - Converts `PNG` to `MIRC` escape codes
 - Ability to use your own 10x10 palette for `RGB` comparison values
